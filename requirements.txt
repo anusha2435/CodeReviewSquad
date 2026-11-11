@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+langchain-google-genai
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+python-dotenv
+flake8
+pytest
